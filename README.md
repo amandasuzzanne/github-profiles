@@ -1,5 +1,5 @@
 # github-profiles
-This is an interface created in order to search for a GitHub user.  
+This is an interface created in order to search for a GitHub user. It utilizes the GitHub API.
 
 # Images of the user inteface
 ![Screenshot (57)](https://user-images.githubusercontent.com/54472430/235786307-5d3dddff-5777-4d58-beb6-566817daf0c4.png)
